@@ -51,7 +51,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>com.mkyong.core.App</mainClass>
+								<mainClass>com.chvan.app.App</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
