@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Bengaluru!" );
+        int x=20; int y=30;
+        int value= (x+y);
+        System.out.println( "Hello! The addition value is: " + value);
     }
 }
